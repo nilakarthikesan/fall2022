@@ -1,3 +1,9 @@
+# CMSC320 coursework
+
+This repository is a fork of the University of Maryland’s Fall 2022 CMSC320 course materials. It contains course-provided project instructions and starter material. The original instructor and course documentation follow below.
+
+---
+
 # CMSC320 - Introduction to Data Science - Fall 2022
 
 **Instructor:** [Maxsym Morawski]()
